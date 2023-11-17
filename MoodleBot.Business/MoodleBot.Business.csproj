@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.10.0" />
+    <PackageReference Include="itext7" Version="7.1.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MoodleBot.Common\MoodleBot.Common.csproj" />
+    <ProjectReference Include="..\MoodleBot.Persistent\MoodleBot.Persistent.csproj" />
+  </ItemGroup>
+
+</Project>

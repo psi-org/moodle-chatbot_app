@@ -1,0 +1,722 @@
+[
+	{
+		"Id": 1,
+		"MessageName": "WELCOME_MESSAGE",
+		"TypeId": 1,
+		"Message": "Welcome to e-Learning chatbot",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 2,
+		"MessageName": "WELCOME_IMAGE",
+		"TypeId": 1,
+		"Message": "",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 3,
+		"MessageName": "USER_WELCOME",
+		"TypeId": 2,
+		"Message": "Hello {0} {1}. Welcome back!",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 4,
+		"MessageName": "USER_NOT_REGISTERD",
+		"TypeId": 2,
+		"Message": "You are not registered in the e-Learning chatbot.  Type *1* to create a new account",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 5,
+		"MessageName": "USER_GREETINGS",
+		"TypeId": 2,
+		"Message": "Thank you, {0} {1} for choosing the e-Learning chatbot courses!",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 6,
+		"MessageName": "USER_GREETINGS_ON_ACTIVITY_COMPLETE",
+		"TypeId": 2,
+		"Message": "👏 Congratulations! You have finished this module.",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 7,
+		"MessageName": "COURSE_LIST_INFO",
+		"TypeId": 3,
+		"Message": " Below you may find a list of *$#COURSE_COUNT#$ courses* available for you. Please type the course number you want to see:\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 8,
+		"MessageName": "COURSE_LIST",
+		"TypeId": 3,
+		"Message": "*{0} - {1}*\r\n      *Status:* {2}, {3}% complete\r\n      *Grade:* {4}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 9,
+		"MessageName": "COURSE_NOT_FOUND",
+		"TypeId": 3,
+		"Message": "We couldn't find the selected course. Please try again later",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 10,
+		"MessageName": "COURSE_SUMMARY",
+		"TypeId": 3,
+		"Message": "*Course Summary:*\r\n\r\n*Status:* {0}, {1}% complete\r\n*Grade:* {2}\r\n*Started on:* {3}\r\n*Completed on:* {4}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 11,
+		"MessageName": "COURSE_ACTION_CURRENT_COURSE",
+		"TypeId": 3,
+		"Message": "0 - Continue course",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 12,
+		"MessageName": "COURSE_ACTION_SHOW_MENU",
+		"TypeId": 3,
+		"Message": "1 - Go back to the course list",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 13,
+		"MessageName": "ACTIVITY_LIST_INFO",
+		"TypeId": 4,
+		"Message": "*{0} - {1}*\r\n\r\n*Modules:*\r\nSelect one of the numbers below to start the module from the beginning. Total of *$#ACTIVITY_COUNT#$ modules* available.\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 14,
+		"MessageName": "ACTIVITY_LIST",
+		"TypeId": 4,
+		"Message": "*{0} - {1}*\r\n      *Status:* {2}\r\n      *Grade:* {3}\r\n      *Attempt:* {4} {5}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 15,
+		"MessageName": "ACTIVITY_NOT_FOUND",
+		"TypeId": 4,
+		"Message": "Module is not found for selected course. Please choose other course",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 16,
+		"MessageName": "ACTIVITY_GO_BACK_TO_COURSE",
+		"TypeId": 4,
+		"Message": "Type *0* to go back to the course list\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 17,
+		"MessageName": "ACTIVITY_SELECTION_CONFIRM_TITLE",
+		"TypeId": 4,
+		"Message": "*{0} - {1}*\r\n\r\n{2}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 18,
+		"MessageName": "ACTIVITY_SELECTION_CONFIRM",
+		"TypeId": 4,
+		"Message": "Type *1* to start the {0}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 19,
+		"MessageName": "SUMMARY_ACTION",
+		"TypeId": 4,
+		"Message": "------\r\n*Actions:*\r\n\r\n{0}\r\n{1}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 20,
+		"MessageName": "ACTIVITY_SUMMARY",
+		"TypeId": 4,
+		"Message": "*Module Summary:*\r\n\r\n*Started on:* {0}\r\n*Completed on:* {1}\r\n*Time taken:* {2}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 21,
+		"MessageName": "ACTIVITY_ACTION_COURSE_MENU",
+		"TypeId": 4,
+		"Message": "{0} - Go back to the course list",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 22,
+		"MessageName": "ACTIVITY_ACTION_SHOW_COURSE_SUMMARY",
+		"TypeId": 4,
+		"Message": "{0} - Show course summary",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 23,
+		"MessageName": "ACTIVITY_ACTION_REPEAT_ACTIVITTY",
+		"TypeId": 4,
+		"Message": "{0} - Repeat this module",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 24,
+		"MessageName": "ACTIVITY_ACTION_NEXT_ACTIVITY",
+		"TypeId": 4,
+		"Message": "{0} - Go to the next module",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 25,
+		"MessageName": "GO_BACK_TO_ACTIVITY",
+		"TypeId": 4,
+		"Message": "Type *0* to go back to the previous page\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 26,
+		"MessageName": "LESSON_ACTION_CONTINUE",
+		"TypeId": 5,
+		"Message": "Type *1* to continue\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 27,
+		"MessageName": "LESSON_ACTION_GO_BACK_TO_ACTIVITY",
+		"TypeId": 5,
+		"Message": "Type *0* to go back to the modules list",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 28,
+		"MessageName": "QUESTIION_ATTEMPT_COUNT",
+		"TypeId": 6,
+		"Message": "This is your attempt #{0}.",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 29,
+		"MessageName": "QUESTIION_TEMPLATE",
+		"TypeId": 6,
+		"Message": "*{0}*: {1}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 30,
+		"MessageName": "QUESTIION_OPTION_TEMPLATE",
+		"TypeId": 6,
+		"Message": "{0} - {1}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 31,
+		"MessageName": "QUIZ_SUMMARY",
+		"TypeId": 6,
+		"Message": "*Marks:* {0} out of {1}\r\n*Grade:* {2}\r\n*Attempt:* {3} {4}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 32,
+		"MessageName": "INVALID_INPUT",
+		"TypeId": 7,
+		"Message": "⚠️ Invalid input. Please type one of the options available, or press *#* to go back to the previous page",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 33,
+		"MessageName": "PAGE_NEXT",
+		"TypeId": 8,
+		"Message": "Type *{0}* to see more items\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 34,
+		"MessageName": "PAGE_PREVIOUS",
+		"TypeId": 8,
+		"Message": "Type *{0}* to see previous items\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 35,
+		"MessageName": "FEEDBACK_ACTIVITY_ALREADY_COMPLETED",
+		"TypeId": 9,
+		"Message": "You have already provided feedback. To continue please go with the following actions",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 36,
+		"MessageName": "WELCOME_MESSAGE",
+		"TypeId": 1,
+		"Message": "Bem-vindo à plataforma de e-Learning chabot!",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 37,
+		"MessageName": "WELCOME_IMAGE",
+		"TypeId": 1,
+		"Message": "",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 38,
+		"MessageName": "USER_WELCOME",
+		"TypeId": 2,
+		"Message": "Olá {0} {1}. Bem vindo de volta!",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 39,
+		"MessageName": "USER_NOT_REGISTERD",
+		"TypeId": 2,
+		"Message": "Não está registado no e-Learning chatbot.  Pressione  *1* para criar uma nova conta!",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 40,
+		"MessageName": "USER_GREETINGS",
+		"TypeId": 2,
+		"Message": "Obrigado, {0} {1} por escolher os cursos do e-Learning chatbot!",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 41,
+		"MessageName": "USER_GREETINGS_ON_ACTIVITY_COMPLETE",
+		"TypeId": 2,
+		"Message": "👏 Parabéns! Você terminou esta actividade.",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 42,
+		"MessageName": "COURSE_LIST_INFO",
+		"TypeId": 3,
+		"Message": "Abaixo encontrará uma lista de *$#COURSE_COUNT#$ cursos* disponíveis para si. Digite o número do curso que você deseja aceder:\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 43,
+		"MessageName": "COURSE_LIST",
+		"TypeId": 3,
+		"Message": "*{0} - {1}*\r\n      *Estado:* {2}, {3} % completo\r\n     *Nota:* {4}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 44,
+		"MessageName": "COURSE_NOT_FOUND",
+		"TypeId": 3,
+		"Message": "O curso seleccionado não foi encontrado. Tente mais tarde novamente",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 45,
+		"MessageName": "COURSE_SUMMARY",
+		"TypeId": 3,
+		"Message": "*Resumo do Curso:*\r\n\r\n\n*Estado:* {0}, {1} % completo\r\n*Nota:* {2}\r\n*Data de início:* {3}\r\n*Data de fim:* {4}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 46,
+		"MessageName": "COURSE_ACTION_CURRENT_COURSE",
+		"TypeId": 3,
+		"Message": "0 - Continuar com o curso actual",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 47,
+		"MessageName": "COURSE_ACTION_SHOW_MENU",
+		"TypeId": 3,
+		"Message": "1 - Voltar para o menu do curso",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 48,
+		"MessageName": "ACTIVITY_LIST_INFO",
+		"TypeId": 4,
+		"Message": "*{0} - {1}*\r\n\r\n*Actividades:*\r\nSeleccione um dos números abaixo para iniciar a actividade desde o início. Total *$#ACTIVITY_COUNT#$ actividades* disponíveis\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 49,
+		"MessageName": "ACTIVITY_LIST",
+		"TypeId": 4,
+		"Message": "*{0} - {1}*\r\n\r\n*Estado:* {0}, {1} %\r\n*Nota:* {2}\r\n*Data de início:* {3}\r\n*Data de fim:* {4}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 50,
+		"MessageName": "ACTIVITY_NOT_FOUND",
+		"TypeId": 4,
+		"Message": "A actividade não foi encontrada para o curso seleccionado. Escolha outro curso, por favor",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 51,
+		"MessageName": "ACTIVITY_GO_BACK_TO_COURSE",
+		"TypeId": 4,
+		"Message": "Pressione *0* para voltar à página da lista de cursos, para ver outros cursos",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 52,
+		"MessageName": "ACTIVITY_SELECTION_CONFIRM_TITLE",
+		"TypeId": 4,
+		"Message": "*{0} - {1}*\r\n\r\n{2}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 53,
+		"MessageName": "ACTIVITY_SELECTION_CONFIRM",
+		"TypeId": 4,
+		"Message": "Pressione *1* para iniciar o {0}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 54,
+		"MessageName": "SUMMARY_ACTION",
+		"TypeId": 4,
+		"Message": "------\n*Ações:*\n\n{0}\n{1}",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 55,
+		"MessageName": "ACTIVITY_SUMMARY",
+		"TypeId": 4,
+		"Message": "*Resumo das actividades:*\n\n*Data de início:* {0}\n*Data de fim:* {1}\n*Tempo total:* {2}",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 56,
+		"MessageName": "ACTIVITY_ACTION_COURSE_MENU",
+		"TypeId": 4,
+		"Message": "{0} - Voltar para o menu do curso",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 57,
+		"MessageName": "ACTIVITY_ACTION_SHOW_COURSE_SUMMARY",
+		"TypeId": 4,
+		"Message": "{0} - Mostrar resumo do curso",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 58,
+		"MessageName": "ACTIVITY_ACTION_REPEAT_ACTIVITTY",
+		"TypeId": 4,
+		"Message": "{0} - Repetir esta actividade",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 59,
+		"MessageName": "ACTIVITY_ACTION_NEXT_ACTIVITY",
+		"TypeId": 4,
+		"Message": "{0} - Ir para a próxima atividade",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 60,
+		"MessageName": "GO_BACK_TO_ACTIVITY",
+		"TypeId": 4,
+		"Message": "Pressione *0* para voltar à página anterior\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 61,
+		"MessageName": "LESSON_ACTION_CONTINUE",
+		"TypeId": 5,
+		"Message": "Pressione *1* para continuar\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 62,
+		"MessageName": "LESSON_ACTION_GO_BACK_TO_ACTIVITY",
+		"TypeId": 5,
+		"Message": "Pressione *0* para voltar à página de actividades\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 63,
+		"MessageName": "QUESTIION_ATTEMPT_COUNT",
+		"TypeId": 6,
+		"Message": "Esta é a sua tentativa #{0}.",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 64,
+		"MessageName": "QUESTIION_TEMPLATE",
+		"TypeId": 6,
+		"Message": "*{0}*: {1}\r\n\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 65,
+		"MessageName": "QUESTIION_OPTION_TEMPLATE",
+		"TypeId": 6,
+		"Message": "{0}) {1}\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 66,
+		"MessageName": "QUIZ_SUMMARY",
+		"TypeId": 6,
+		"Message": "*Marcas:* {0} fora de {1}\n*Nota:* {2} %\n*# Tentativas:* {3}, {4}",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 67,
+		"MessageName": "INVALID_INPUT",
+		"TypeId": 7,
+		"Message": "⚠️ Entrada inválida. Seleccione uma das opções disponíveis ou pressione *#* para voltar à página anterior",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 68,
+		"MessageName": "PAGE_NEXT",
+		"TypeId": 8,
+		"Message": "Pressione *{0}* para ver mais itens\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 69,
+		"MessageName": "PAGE_PREVIOUS",
+		"TypeId": 8,
+		"Message": "Pressione *{0}* para ver os itens anteriores\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 70,
+		"MessageName": "FEEDBACK_ACTIVITY_ALREADY_COMPLETED",
+		"TypeId": 9,
+		"Message": "Você já forneceu feedback. Para continuar, siga as seguintes acções",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 71,
+		"MessageName": "DOWNLOAD_CERTIFICATE",
+		"TypeId": 3,
+		"Message": "Type *{0}* to download your certificate\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 72,
+		"MessageName": "DOWNLOAD_CERTIFICATE",
+		"TypeId": 3,
+		"Message": "Pressione *{0}* para baixar seu certificado\r\n",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 73,
+		"MessageName": "CERTIFICATE_WAITING_MESSAGE",
+		"TypeId": 3,
+		"Message": "Please wait! It may take a few seconds to provide your certificate",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 74,
+		"MessageName": "CERTIFICATE_WAITING_MESSAGE",
+		"TypeId": 3,
+		"Message": "Aguarde, por favor. Poderá levar alguns segundos para fornecer o seu certificado",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 75,
+		"MessageName": "CERTIFICATE_NOT_FOUND",
+		"TypeId": 3,
+		"Message": "Oops! The certificate isn't available for this course, we are waiting on completion of course",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 76,
+		"MessageName": "CERTIFICATE_NOT_FOUND",
+		"TypeId": 3,
+		"Message": "Ops! O certificado não está disponível para este curso. Deverá concluir o curso primeiro",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 77,
+		"MessageName": "OPTIONAL",
+		"TypeId": 2,
+		"Message": "Optional",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 78,
+		"MessageName": "OPTIONAL",
+		"TypeId": 2,
+		"Message": "Opcional",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	},
+	{
+		"Id": 90,
+		"MessageName": "USER_NOT_VERIFIED",
+		"TypeId": 2,
+		"Message": "Your registration is not complete.\r\n\r\nType *1* to complete the registration and validate your account",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "en"
+	},
+	{
+		"Id": 91,
+		"MessageName": "USER_NOT_VERIFIED",
+		"TypeId": 2,
+		"Message": "O seu registo não esta concluído.\r\n\r\nPressione *1* para concluir o registo e validar a sua conta",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z",
+		"LanguageISOCode": "pt"
+	}
+]

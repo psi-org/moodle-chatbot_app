@@ -1,0 +1,25 @@
+FROM mcr.microsoft.com/dotnet/core/sdk AS build
+WORKDIR /app
+
+COPY MoodleBot.sln .
+
+COPY MoodleBot/*.csproj ./MoodleBot/
+COPY MoodleBot.Business/*.csproj ./MoodleBot.Business/
+COPY MoodleBot.Persistent/*.csproj ./MoodleBot.Persistent/
+COPY MoodleBot.Common/*.csproj ./MoodleBot.Common/
+COPY MoodleBot.Models/*.csproj ./MoodleBot.Models/
+
+RUN dotnet restore
+
+COPY . .
+
+RUN dotnet build -c Release -o /publish
+
+FROM build AS publish
+RUN dotnet publish -c Release -o /publish
+
+FROM mcr.microsoft.com/dotnet/core/aspnet AS final
+WORKDIR /app
+COPY --from=publish /publish .
+
+ENTRYPOINT ["dotnet", "MoodleBot.dll"] 

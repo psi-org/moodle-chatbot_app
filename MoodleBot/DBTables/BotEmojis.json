@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "EmojisName": "COURSE_NOT_ENROLLED",
+    "StatusId": 1,
+    "EmojisTypeId": 1,
+    "Emojis": "🔲",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 2,
+    "EmojisName": "COURSE_ENROLLED",
+    "StatusId": 2,
+    "EmojisTypeId": 1,
+    "Emojis": "☑️",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 3,
+    "EmojisName": "COURSE_IN_PROGRESS",
+    "StatusId": 3,
+    "EmojisTypeId": 1,
+    "Emojis": "👏",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 4,
+    "EmojisName": "COURSE_COMPLETED",
+    "StatusId": 4,
+    "EmojisTypeId": 1,
+    "Emojis": "✅",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 5,
+    "EmojisName": "COURSE_COMPLETED_PASS",
+    "StatusId": 5,
+    "EmojisTypeId": 1,
+    "Emojis": "✅",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 6,
+    "EmojisName": "COURSE_COMPLETED_FAIL",
+    "StatusId": 6,
+    "EmojisTypeId": 1,
+    "Emojis": "❌",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 7,
+    "EmojisName": "ACTIVITY_NOT_STARTED",
+    "StatusId": -1,
+    "EmojisTypeId": 2,
+    "Emojis": "🔲",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 8,
+    "EmojisName": "ACTIVITY_IN_PROGRESS",
+    "StatusId": 0,
+    "EmojisTypeId": 2,
+    "Emojis": "💬",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 9,
+    "EmojisName": "ACTIVITY_COMPLETED",
+    "StatusId": 1,
+    "EmojisTypeId": 2,
+    "Emojis": "✅",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 10,
+    "EmojisName": "ACTIVITY_COMPLETED_PASS",
+    "StatusId": 2,
+    "EmojisTypeId": 2,
+    "Emojis": "✅",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 11,
+    "EmojisName": "ACTIVITY_COMPLETED_FAIL",
+    "StatusId": 3,
+    "EmojisTypeId": 2,
+    "Emojis": "❌",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 12,
+    "EmojisName": "STATUS_UNKNOWN",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "❓",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 13,
+    "EmojisName": "GRADE_GREEN",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "🟢",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 14,
+    "EmojisName": "GRADE_RED",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "🔴",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 15,
+    "EmojisName": "ATTEMPT",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "#️⃣",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 16,
+    "EmojisName": "ANSWER_CORRECT",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "✅",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 17,
+    "EmojisName": "ANSWER_INCORRECT",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "❌",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 18,
+    "EmojisName": "SUMMARY",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "🗒️",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 19,
+    "EmojisName": "ACTIVITY_FINISHED",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "👏",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-09-21T22:54:55.06Z"
+  },
+  {
+    "Id": 20,
+    "EmojisName": "PAGE_NEXT",
+    "StatusId": null,
+    "EmojisTypeId": 4,
+    "Emojis": "99",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-10-13T11:04:33.4933333Z"
+  },
+  {
+    "Id": 21,
+    "EmojisName": "PAGE_PREVIOUS",
+    "StatusId": null,
+    "EmojisTypeId": 4,
+    "Emojis": "00",
+    "DateCreated": "2021-09-21T22:54:55.06Z",
+    "DateUpdated": "2021-10-13T11:04:33.4933333Z"
+  },
+  {
+    "Id": 22,
+    "EmojisName": "DOWNLOAD_CERTIFICATE",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "88",
+    "DateCreated": "2021-09-22T14:54:33.5433333Z",
+    "DateUpdated": "2021-10-13T11:04:33.4933333Z"
+  },
+  {
+    "Id": 23,
+    "EmojisName": "RESTRICTED_ITEM",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "🚫",
+    "DateCreated": "2021-10-13T11:04:33.51Z",
+    "DateUpdated": "2021-10-13T11:04:33.51Z"
+  },
+  {
+    "Id": 24,
+    "EmojisName": "STATUS_ALERT",
+    "StatusId": null,
+    "EmojisTypeId": 3,
+    "Emojis": "❗",
+    "DateCreated": "2021-10-14T12:20:27.7666667Z",
+    "DateUpdated": "2021-10-14T12:20:27.7666667Z"
+  }
+]

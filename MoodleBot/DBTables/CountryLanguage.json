@@ -1,0 +1,352 @@
+[
+	{
+		"Id" : 1,
+		"ISO" : "AO",
+		"TLD" : ".ao",
+		"CallingCode" : "244",
+		"LanguageName" : "Português",
+		"LanguageISO" : "pt",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 2,
+		"ISO" : "BF",
+		"TLD" : ".bf",
+		"CallingCode" : "226",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 3,
+		"ISO" : "BI",
+		"TLD" : ".bi",
+		"CallingCode" : "257",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 4,
+		"ISO" : "BJ",
+		"TLD" : ".bj",
+		"CallingCode" : "229",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 5,
+		"ISO" : "BW",
+		"TLD" : ".bw",
+		"CallingCode" : "267",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 6,
+		"ISO" : "CD",
+		"TLD" : ".cd",
+		"CallingCode" : "243",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 7,
+		"ISO" : "CG",
+		"TLD" : ".cg",
+		"CallingCode" : "242",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 8,
+		"ISO" : "CI",
+		"TLD" : ".ci",
+		"CallingCode" : "225",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 9,
+		"ISO" : "CM",
+		"TLD" : ".cm",
+		"CallingCode" : "237",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 10,
+		"ISO" : "CV",
+		"TLD" : ".cv",
+		"CallingCode" : "238",
+		"LanguageName" : "Português",
+		"LanguageISO" : "pt",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 11,
+		"ISO" : "GA",
+		"TLD" : ".ga",
+		"CallingCode" : "241",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 12,
+		"ISO" : "GH",
+		"TLD" : ".gh",
+		"CallingCode" : "233",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 13,
+		"ISO" : "GM",
+		"TLD" : ".gm",
+		"CallingCode" : "220",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 14,
+		"ISO" : "GN",
+		"TLD" : ".gn",
+		"CallingCode" : "224",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 15,
+		"ISO" : "GQ",
+		"TLD" : ".gq",
+		"CallingCode" : "240",
+		"LanguageName" : "Português",
+		"LanguageISO" : "pt",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 16,
+		"ISO" : "GW",
+		"TLD" : ".gw",
+		"CallingCode" : "245",
+		"LanguageName" : "Português",
+		"LanguageISO" : "pt",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 17,
+		"ISO" : "KE",
+		"TLD" : ".ke",
+		"CallingCode" : "254",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 18,
+		"ISO" : "LR",
+		"TLD" : ".lr",
+		"CallingCode" : "231",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 19,
+		"ISO" : "LS",
+		"TLD" : ".ls",
+		"CallingCode" : "266",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 20,
+		"ISO" : "ML",
+		"TLD" : ".ml",
+		"CallingCode" : "223",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 21,
+		"ISO" : "MW",
+		"TLD" : ".mw",
+		"CallingCode" : "265",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 22,
+		"ISO" : "MZ",
+		"TLD" : ".mz",
+		"CallingCode" : "258",
+		"LanguageName" : "Português",
+		"LanguageISO" : "pt",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 23,
+		"ISO" : "NA",
+		"TLD" : ".na",
+		"CallingCode" : "264",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 24,
+		"ISO" : "NE",
+		"TLD" : ".ne",
+		"CallingCode" : "227",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 25,
+		"ISO" : "NG",
+		"TLD" : ".ng",
+		"CallingCode" : "234",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 26,
+		"ISO" : "SC",
+		"TLD" : ".sc",
+		"CallingCode" : "248",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 27,
+		"ISO" : "SD",
+		"TLD" : ".sd",
+		"CallingCode" : "249",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 28,
+		"ISO" : "SL",
+		"TLD" : ".sl",
+		"CallingCode" : "232",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 29,
+		"ISO" : "SN",
+		"TLD" : ".sn",
+		"CallingCode" : "221",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 30,
+		"ISO" : "ST",
+		"TLD" : ".st",
+		"CallingCode" : "239",
+		"LanguageName" : "Português",
+		"LanguageISO" : "pt",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 31,
+		"ISO" : "TG",
+		"TLD" : ".tg",
+		"CallingCode" : "228",
+		"LanguageName" : "Français",
+		"LanguageISO" : "fr",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 32,
+		"ISO" : "TZ",
+		"TLD" : ".tz",
+		"CallingCode" : "255",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 33,
+		"ISO" : "ZA",
+		"TLD" : ".za",
+		"CallingCode" : "27",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 34,
+		"ISO" : "ZM",
+		"TLD" : ".zm",
+		"CallingCode" : "260",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	},
+	{
+		"Id" : 35,
+		"ISO" : "ZW",
+		"TLD" : ".zw",
+		"CallingCode" : "263",
+		"LanguageName" : "English",
+		"LanguageISO" : "en",
+		"DateCreated": "2021-09-21T22:54:54.0233333Z",
+		"DateUpdated": "2021-10-14T11:57:06.0766667Z"
+	}
+]
